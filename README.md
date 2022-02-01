@@ -4,9 +4,9 @@ currently I'm in a Web Development bootcamp @ neuefische.
 
 ## My skills:
 
-- Graphics Design on Adobe
+- Graphics Design on Adobe CC (Photoshop, Illustrator, InDesign)
 - Filming
-- Video Editing & Post Production on Adobe
+- Video Editing & Post Production on Adobe CC (Premiere Pro, After Effects)
 - Audio Recording & Editing on Cubase
 
 [![DanSchrader's github stats](https://github-readme-stats.vercel.app/api?username=DanSchrader)](https://github.com/anuraghazra/github-readme-stats)

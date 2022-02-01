@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Daniel,
+
+currently I'm in a Web Development bootcamp @ neuefische.
+
+## My skills:
+
+- Graphics Design on Adobe
+- Filming
+- Video Editing & Post Production on Adobe
+- Audio Recording & Editing on Cubase
 
 [![DanSchrader's github stats](https://github-readme-stats.vercel.app/api?username=DanSchrader)](https://github.com/anuraghazra/github-readme-stats)
 

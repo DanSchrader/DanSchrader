@@ -2,7 +2,7 @@
 
 currently I'm in a Web Development bootcamp @ neuefische.
 
-## My skills:
+#### My skills:
 
 - Graphics Design on Adobe CC (Photoshop, Illustrator, InDesign)
 - Filming

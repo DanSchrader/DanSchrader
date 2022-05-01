@@ -1,10 +1,11 @@
 ### Hi there 👋 my name is Daniel,
 
-currently I'm in a Web Development bootcamp @ neuefische.
+I recently finished a Web Development bootcamp @ neuefische and I'm looking for a job as Junior Frontend Developer.
 
 #### My skills:
 
-- Graphics Design on Adobe CC (Photoshop, Illustrator, InDesign)
+- React, Scrum, pair-/ mob-programming
+- Graphics Design on Adobe CC (Photoshop, Illustrator, InDesign, XD) and with Figma
 - Filming
 - Video Editing & Post Production on Adobe CC (Premiere Pro, After Effects)
 - Audio Recording & Editing on Cubase
